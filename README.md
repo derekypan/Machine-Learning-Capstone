@@ -48,7 +48,7 @@ presented in the form of 2 separate CSV files.
 3) `genre`: list of genre's applicable to show (nominal);
 4) `type`: type of show ex. Movie, TV, OVA (nominal);
 5) `episodes`: number of episodes in show (numeric);
-6) `rating`: average user rating 1-10 (numeric);
+6) `rating`: average user rating (numeric: 1-10);
 7) `members`: number of memebers in the shows group/community (numeric);
 
 **Rating.csv Features**
