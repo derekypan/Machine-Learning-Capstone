@@ -35,7 +35,7 @@ Navigate to top level of repository and make sure to unzip anime-recommendations
 jupyter notebook "All Together".ipynb
 ```
 
-This will open the jupyter notebook in your browser from which you can run all the code.
+This will open the jupyter notebook in your browser from which you can run or modify the code. In code box 7, the user id can be modified to fit any user.
 
 ### Data
 
