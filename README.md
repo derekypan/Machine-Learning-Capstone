@@ -29,7 +29,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 All code for the project is provided in the "All Together".ipynb notebook file. The csv files in anime-recommendations-database.zip are required for the code to run correctly. 
 
 ### Run
-Navigate to top level of repository and make sure to unzip anime-recommendations-database.zip in that directory. Then in the command line enter:
+Navigate to top level of repository and make sure to unzip the contents of anime-recommendations-database.zip in that directory. Then in the command line enter:
 
 ```bash
 jupyter notebook "All Together".ipynb
